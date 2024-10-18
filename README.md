@@ -21,3 +21,5 @@
 
 ### ⚡ Fun Fact:
 - When I’m not coding, I love exploring new tech trends and relaxing with some music 🎵.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuk-hettiarachchi-3380b2219/)  <!-- Replace with your actual LinkedIn profile link -->
